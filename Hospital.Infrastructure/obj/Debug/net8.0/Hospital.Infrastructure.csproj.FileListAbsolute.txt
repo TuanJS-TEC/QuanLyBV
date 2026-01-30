@@ -11,6 +11,7 @@
 /Users/minhtuansfile/HoangTuan_Code/Hpt/Hospital.Infrastructure/obj/Debug/net8.0/Hospital.Infrastructure.AssemblyInfoInputs.cache
 /Users/minhtuansfile/HoangTuan_Code/Hpt/Hospital.Infrastructure/obj/Debug/net8.0/Hospital.Infrastructure.AssemblyInfo.cs
 /Users/minhtuansfile/HoangTuan_Code/Hpt/Hospital.Infrastructure/obj/Debug/net8.0/Hospital.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/minhtuansfile/HoangTuan_Code/Hpt/Hospital.Infrastructure/obj/Debug/net8.0/Hospital.Infrastructure.sourcelink.json
 /Users/minhtuansfile/HoangTuan_Code/Hpt/Hospital.Infrastructure/obj/Debug/net8.0/Hospital.DEEB3E34.Up2Date
 /Users/minhtuansfile/HoangTuan_Code/Hpt/Hospital.Infrastructure/obj/Debug/net8.0/Hospital.Infrastructure.dll
 /Users/minhtuansfile/HoangTuan_Code/Hpt/Hospital.Infrastructure/obj/Debug/net8.0/refint/Hospital.Infrastructure.dll

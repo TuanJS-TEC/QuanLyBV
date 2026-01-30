@@ -12,6 +12,9 @@ namespace Hospital.Infrastructure.Data
         public DbSet<Doctor> Doctors { get; set; }
         public DbSet<Appointment> Appointments { get; set; }
         public DbSet<MedicalRecord> MedicalRecords { get; set; }
+        public DbSet<Medication> Medications { get; set; }
+        public DbSet<Prescription> Prescriptions { get; set; }
+        public DbSet<PrescriptionDetail> PrescriptionDetails { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
@@ -46,6 +49,21 @@ namespace Hospital.Infrastructure.Data
                 .WithOne() 
                 .HasForeignKey<MedicalRecord>(m => m.AppointmentID)
                 .IsRequired(false);
+            modelBuilder.Entity<Doctor>()
+                .Property(d => d.ConsultationFee)
+                .HasColumnType("decimal(18, 2)");
+            modelBuilder.Entity<MedicalRecord>(entity =>
+            {
+                entity.Property(m => m.Temperature).HasColumnType("decimal(4, 1)");
+                entity.Property(m => m.Weight).HasColumnType("decimal(5, 2)");
+                entity.Property(m => m.Height).HasColumnType("decimal(5, 2)");
+            });
+            modelBuilder.Entity<Medication>().ToTable("MEDICATION");
+            modelBuilder.Entity<Prescription>().ToTable("PRESCRIPTION");
+            modelBuilder.Entity<PrescriptionDetail>().ToTable("PRESCRIPTION_DETAIL");
+            modelBuilder.Entity<Medication>()
+                .Property(m => m.UnitPrice)
+                .HasColumnType("decimal(18, 2)");
         }
     
     }

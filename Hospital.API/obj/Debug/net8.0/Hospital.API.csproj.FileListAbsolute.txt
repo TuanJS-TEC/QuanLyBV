@@ -132,6 +132,7 @@
 /Users/minhtuansfile/HoangTuan_Code/Hpt/Hospital.API/obj/Debug/net8.0/Hospital.API.csproj.CoreCompileInputs.cache
 /Users/minhtuansfile/HoangTuan_Code/Hpt/Hospital.API/obj/Debug/net8.0/Hospital.API.MvcApplicationPartsAssemblyInfo.cs
 /Users/minhtuansfile/HoangTuan_Code/Hpt/Hospital.API/obj/Debug/net8.0/Hospital.API.MvcApplicationPartsAssemblyInfo.cache
+/Users/minhtuansfile/HoangTuan_Code/Hpt/Hospital.API/obj/Debug/net8.0/Hospital.API.sourcelink.json
 /Users/minhtuansfile/HoangTuan_Code/Hpt/Hospital.API/obj/Debug/net8.0/staticwebassets.build.json
 /Users/minhtuansfile/HoangTuan_Code/Hpt/Hospital.API/obj/Debug/net8.0/staticwebassets.development.json
 /Users/minhtuansfile/HoangTuan_Code/Hpt/Hospital.API/obj/Debug/net8.0/staticwebassets/msbuild.Hospital.API.Microsoft.AspNetCore.StaticWebAssets.props

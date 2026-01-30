@@ -5,6 +5,7 @@
 /Users/minhtuansfile/HoangTuan_Code/Hpt/Hospital.Domain/obj/Debug/net8.0/Hospital.Domain.AssemblyInfoInputs.cache
 /Users/minhtuansfile/HoangTuan_Code/Hpt/Hospital.Domain/obj/Debug/net8.0/Hospital.Domain.AssemblyInfo.cs
 /Users/minhtuansfile/HoangTuan_Code/Hpt/Hospital.Domain/obj/Debug/net8.0/Hospital.Domain.csproj.CoreCompileInputs.cache
+/Users/minhtuansfile/HoangTuan_Code/Hpt/Hospital.Domain/obj/Debug/net8.0/Hospital.Domain.sourcelink.json
 /Users/minhtuansfile/HoangTuan_Code/Hpt/Hospital.Domain/obj/Debug/net8.0/Hospital.Domain.dll
 /Users/minhtuansfile/HoangTuan_Code/Hpt/Hospital.Domain/obj/Debug/net8.0/refint/Hospital.Domain.dll
 /Users/minhtuansfile/HoangTuan_Code/Hpt/Hospital.Domain/obj/Debug/net8.0/Hospital.Domain.pdb
