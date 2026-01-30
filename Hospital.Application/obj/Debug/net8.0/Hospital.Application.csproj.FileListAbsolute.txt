@@ -1,0 +1,15 @@
+/Users/minhtuansfile/HoangTuan_Code/Hpt/Hospital.Application/bin/Debug/net8.0/Hospital.Application.deps.json
+/Users/minhtuansfile/HoangTuan_Code/Hpt/Hospital.Application/bin/Debug/net8.0/Hospital.Application.dll
+/Users/minhtuansfile/HoangTuan_Code/Hpt/Hospital.Application/bin/Debug/net8.0/Hospital.Application.pdb
+/Users/minhtuansfile/HoangTuan_Code/Hpt/Hospital.Application/bin/Debug/net8.0/Hospital.Domain.dll
+/Users/minhtuansfile/HoangTuan_Code/Hpt/Hospital.Application/bin/Debug/net8.0/Hospital.Domain.pdb
+/Users/minhtuansfile/HoangTuan_Code/Hpt/Hospital.Application/obj/Debug/net8.0/Hospital.Application.csproj.AssemblyReference.cache
+/Users/minhtuansfile/HoangTuan_Code/Hpt/Hospital.Application/obj/Debug/net8.0/Hospital.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/minhtuansfile/HoangTuan_Code/Hpt/Hospital.Application/obj/Debug/net8.0/Hospital.Application.AssemblyInfoInputs.cache
+/Users/minhtuansfile/HoangTuan_Code/Hpt/Hospital.Application/obj/Debug/net8.0/Hospital.Application.AssemblyInfo.cs
+/Users/minhtuansfile/HoangTuan_Code/Hpt/Hospital.Application/obj/Debug/net8.0/Hospital.Application.csproj.CoreCompileInputs.cache
+/Users/minhtuansfile/HoangTuan_Code/Hpt/Hospital.Application/obj/Debug/net8.0/Hospital.EB8C294B.Up2Date
+/Users/minhtuansfile/HoangTuan_Code/Hpt/Hospital.Application/obj/Debug/net8.0/Hospital.Application.dll
+/Users/minhtuansfile/HoangTuan_Code/Hpt/Hospital.Application/obj/Debug/net8.0/refint/Hospital.Application.dll
+/Users/minhtuansfile/HoangTuan_Code/Hpt/Hospital.Application/obj/Debug/net8.0/Hospital.Application.pdb
+/Users/minhtuansfile/HoangTuan_Code/Hpt/Hospital.Application/obj/Debug/net8.0/ref/Hospital.Application.dll
